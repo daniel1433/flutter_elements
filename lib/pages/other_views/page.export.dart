@@ -1,0 +1,10 @@
+export 'package:curso_fernando/pages/other_views/alert.page.dart';
+export 'package:curso_fernando/pages/other_views/animation.page.dart';
+export 'package:curso_fernando/pages/other_views/avatar.page.dart';
+export 'package:curso_fernando/pages/other_views/card.page.dart';
+export 'package:curso_fernando/pages/other_views/inputs.page.dart';
+export 'package:curso_fernando/pages/other_views/listview2.page.dart';
+export 'package:curso_fernando/pages/other_views/listview1.page.dart';
+export 'package:curso_fernando/pages/other_views/slider.page.dart';
+export 'package:curso_fernando/pages/other_views/listview_builder.page.dart';
+export 'package:curso_fernando/pages/home/screens/home_page.dart';
